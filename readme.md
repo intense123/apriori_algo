@@ -9,12 +9,12 @@ To get started with the Apriori algorithm implementation, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed on your machine.
-3. Run the script `apriori.py` to execute the Apriori algorithm on the provided dataset.
+3. Run the script `ap.py` to execute the Apriori algorithm on the provided dataset.
 4. Explore the generated frequent itemsets and association rules.
 
 ## Code Structure
 
-The main script is `apriori.py`, which includes the implementation of the Apriori algorithm. The dataset is read from the file `data.txt`, where each line represents a transaction.
+The main script is `ap.py`, which includes the implementation of the Apriori algorithm. The dataset is read from the file `data.txt`, where each line represents a transaction.
 
 The code structure includes functions for reading data from a file, counting transactions, generating frequent itemsets, and creating association rules.
 
@@ -23,7 +23,7 @@ The code structure includes functions for reading data from a file, counting tra
 To execute the script, run the following command:
 
 ```bash
-python apriori.py
+python ap.py
 
 ## Dataset
 
