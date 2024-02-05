@@ -27,7 +27,7 @@ python ap.py
 
 ## Dataset
 
-The provided dataset (data.txt) consists of transactions, where each line represents a transaction, and items within each transaction are separated by space.
+The provided dataset (data.txt) consists of transactions, where each line represents a transaction, and items within each transaction are separated by space. You could also use dt.txt or ab.txt in the repository.
 
 ##Results
 
